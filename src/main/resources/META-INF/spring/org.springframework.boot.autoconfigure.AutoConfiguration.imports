@@ -1,0 +1,2 @@
+net.hwyz.iov.cloud.framework.audit.service.AsyncLogService
+net.hwyz.iov.cloud.framework.audit.aspect.LogAspect
