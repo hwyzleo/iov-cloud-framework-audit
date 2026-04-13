@@ -1,8 +1,8 @@
 package net.hwyz.iov.cloud.framework.audit.service;
 
+import net.hwyz.iov.cloud.edd.mpt.api.RemoteLogService;
+import net.hwyz.iov.cloud.edd.mpt.api.domain.SysOperLog;
 import net.hwyz.iov.cloud.framework.common.constant.MptSecurityConstants;
-import net.hwyz.iov.cloud.mpt.system.api.RemoteLogService;
-import net.hwyz.iov.cloud.mpt.system.api.domain.SysOperLog;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
